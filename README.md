@@ -12,7 +12,6 @@ This is a simple front-end application that allows users to perform searches usi
 
 - **HTML**: Markup language for creating the structure of web pages.
 - **CSS**: Stylesheet language for styling HTML elements.
-- **JavaScript**: Programming language for adding interactivity to web pages.
 - **Bootstrap**: Front-end framework for building responsive and mobile-first websites.
 
 ## Usage
